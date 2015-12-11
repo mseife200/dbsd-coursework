@@ -1,0 +1,12 @@
+DROP SEQUENCE incr_viewing_id ;
+DROP SEQUENCE incr_investor_id;
+DROP SEQUENCE incr_property_id;
+DROP SEQUENCE incr_offer_id;
+DROP TABLE property;
+DROP TABLE property_status;
+DROP TABLE viewings;
+DROP TABLE offer;
+DROP TABLE offer_state;
+DROP TABLE investor;
+DROP TABLE address;
+DROP TABLE country;
